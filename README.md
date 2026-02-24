@@ -6,6 +6,7 @@ Journey to Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/IqraIkram3014/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -22,4 +23,12 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

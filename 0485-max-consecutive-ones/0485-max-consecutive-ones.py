@@ -8,6 +8,8 @@ class Solution(object):
                 if count > max_count:
                     max_count = count
             else:
-                count = 0          
+                count = 0  
+         
         return max_count
+     
         

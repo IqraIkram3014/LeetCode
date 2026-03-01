@@ -24,6 +24,7 @@ Journey to Leetcode Problems
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -43,6 +44,7 @@ Journey to Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/IqraIkram3014/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |

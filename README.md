@@ -24,6 +24,7 @@ Journey to Leetcode Problems
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/IqraIkram3014/LeetCode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -46,10 +47,12 @@ Journey to Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/IqraIkram3014/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math

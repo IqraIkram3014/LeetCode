@@ -24,6 +24,7 @@ Journey to Leetcode Problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/IqraIkram3014/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -40,6 +41,7 @@ Journey to Leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/IqraIkram3014/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0344-reverse-string) |

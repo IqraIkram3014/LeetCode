@@ -6,6 +6,7 @@ Journey to Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IqraIkram3014/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IqraIkram3014/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@ Journey to Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/IqraIkram3014/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |

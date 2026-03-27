@@ -10,6 +10,7 @@ Journey to Leetcode Problems
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IqraIkram3014/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -65,6 +66,7 @@ Journey to Leetcode Problems
 | [0001-two-sum](https://github.com/IqraIkram3014/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/IqraIkram3014/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -86,4 +88,12 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/IqraIkram3014/LeetCode/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

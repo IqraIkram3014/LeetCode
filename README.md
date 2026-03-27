@@ -8,6 +8,7 @@ Journey to Leetcode Problems
 | ------- |
 | [0001-two-sum](https://github.com/IqraIkram3014/LeetCode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IqraIkram3014/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -60,6 +61,7 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -67,6 +69,7 @@ Journey to Leetcode Problems
 | [0001-two-sum](https://github.com/IqraIkram3014/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/IqraIkram3014/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -75,6 +78,7 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/IqraIkram3014/LeetCode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/IqraIkram3014/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -98,4 +102,12 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

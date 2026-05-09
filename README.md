@@ -7,6 +7,7 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IqraIkram3014/LeetCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ Journey to Leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/IqraIkram3014/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
@@ -60,6 +62,7 @@ Journey to Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |

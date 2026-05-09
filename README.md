@@ -13,6 +13,7 @@ Journey to Leetcode Problems
 | [0283-move-zeroes](https://github.com/IqraIkram3014/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/IqraIkram3014/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0905-sort-array-by-parity](https://github.com/IqraIkram3014/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ Journey to Leetcode Problems
 | [0344-reverse-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/IqraIkram3014/LeetCode/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/IqraIkram3014/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/IqraIkram3014/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -67,6 +69,7 @@ Journey to Leetcode Problems
 | [0088-merge-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/IqraIkram3014/LeetCode/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/IqraIkram3014/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |

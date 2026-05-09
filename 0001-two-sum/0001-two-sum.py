@@ -5,13 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        num_idx = {num : index for index, num in enumerate(nums)}
-        # {2: 0, 7: 1, 11: 2, 15: 3}
+        num_idx = {num:index for index, num in enumerate(nums)}   
         for index, num in enumerate(nums):
-            sub= target-num
+            sub = target - num
             if sub in num_idx:
-                if num_idx[sub] != index:
-                    return [index, num_idx[sub]]
-                    break          
+                if num_idx[sub]!=index:
+                    return[index, num_idx[sub]]
+                    break
         
-        
+                                                        

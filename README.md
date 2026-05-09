@@ -21,6 +21,7 @@ Journey to Leetcode Problems
 | [1929-concatenation-of-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IqraIkram3014/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Journey to Leetcode Problems
 | [0392-is-subsequence](https://github.com/IqraIkram3014/LeetCode/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/IqraIkram3014/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ Journey to Leetcode Problems
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/IqraIkram3014/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IqraIkram3014/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |

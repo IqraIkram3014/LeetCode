@@ -22,6 +22,7 @@ Journey to Leetcode Problems
 | [1732-find-the-highest-altitude](https://github.com/IqraIkram3014/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/IqraIkram3014/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/IqraIkram3014/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
@@ -50,6 +51,7 @@ Journey to Leetcode Problems
 | [0412-fizz-buzz](https://github.com/IqraIkram3014/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/IqraIkram3014/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/IqraIkram3014/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Journey to Leetcode Problems
 | [0922-sort-array-by-parity-ii](https://github.com/IqraIkram3014/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/IqraIkram3014/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/IqraIkram3014/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |

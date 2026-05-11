@@ -6,7 +6,9 @@ class Solution(object):
         :rtype: List[int]
         """
         
-        less, equal, greater = [], [], []
+        less = []
+        equal = []
+        greater = []
         for num in nums:
             if num > pivot:
                 greater.append(num)

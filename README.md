@@ -46,6 +46,7 @@ Journey to Leetcode Problems
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/IqraIkram3014/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/IqraIkram3014/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/IqraIkram3014/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -70,6 +71,7 @@ Journey to Leetcode Problems
 | [0922-sort-array-by-parity-ii](https://github.com/IqraIkram3014/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/IqraIkram3014/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/IqraIkram3014/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/IqraIkram3014/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/IqraIkram3014/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/IqraIkram3014/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
@@ -118,6 +120,7 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/IqraIkram3014/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -34,6 +34,7 @@ Journey to Leetcode Problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/IqraIkram3014/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/IqraIkram3014/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IqraIkram3014/LeetCode/tree/master/0242-valid-anagram) |
@@ -121,6 +122,7 @@ Journey to Leetcode Problems
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/IqraIkram3014/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/IqraIkram3014/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/IqraIkram3014/LeetCode/tree/master/2000-reverse-prefix-of-word) |

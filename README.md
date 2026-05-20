@@ -121,6 +121,7 @@ Journey to Leetcode Problems
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/IqraIkram3014/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/IqraIkram3014/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -140,4 +141,8 @@ Journey to Leetcode Problems
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/IqraIkram3014/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1754-largest-merge-of-two-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/IqraIkram3014/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

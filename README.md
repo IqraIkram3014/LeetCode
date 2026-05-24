@@ -47,6 +47,7 @@ Journey to Leetcode Problems
 | [0771-jewels-and-stones](https://github.com/IqraIkram3014/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/IqraIkram3014/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/IqraIkram3014/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IqraIkram3014/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IqraIkram3014/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/IqraIkram3014/LeetCode/tree/master/1544-make-the-string-great) |
 | [1754-largest-merge-of-two-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
@@ -131,6 +132,7 @@ Journey to Leetcode Problems
 | [0155-min-stack](https://github.com/IqraIkram3014/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/IqraIkram3014/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/IqraIkram3014/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IqraIkram3014/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IqraIkram3014/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/IqraIkram3014/LeetCode/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/IqraIkram3014/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -150,6 +152,7 @@ Journey to Leetcode Problems
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/IqraIkram3014/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/IqraIkram3014/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1754-largest-merge-of-two-strings](https://github.com/IqraIkram3014/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 ## Design
 |  |
